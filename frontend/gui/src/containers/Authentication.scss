@@ -1,0 +1,14 @@
+.ant-form {
+    max-width: 400px;
+    margin: 0 auto;
+
+    .ant-form-item-control .ant-form-item-children {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .ant-form-item-children {
+        width: 100%;
+    }
+}
+

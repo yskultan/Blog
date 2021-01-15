@@ -1,0 +1,18 @@
+.ant-list-split .ant-list-item {
+    border-bottom: none !important;
+}
+
+.ant-list-vertical .ant-list-item-meta-title {
+    margin-bottom: 0;
+    font-size: 18px !important;
+
+    .username {
+        // margin-top: 10px;
+        font-size: 13px;
+        opacity: .6;
+    }
+}
+
+.ant-list-item-action>li {
+    cursor: initial;
+}
